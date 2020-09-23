@@ -33,5 +33,6 @@ var nextGreaterElements = function (nums) {
     console.log(resultArr);
     return resultArr;
 };
+
 let example1 = [1,2,1];
 nextGreaterElements(example1);
